@@ -10,5 +10,5 @@ Projeto de estudos js
   <P> - HTML </P>
   <P> - CSS </P>
 
-   <P> Neste projeto  também adapatamos para o  modo responsivo </P>
+   <P> Neste projeto  também adaptamos para o  modo responsivo </P>
   
